@@ -1,0 +1,2 @@
+j1 tester - 65
+j2 tester - 180
